@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2C49-03E5
+
+ Directory of C:\Users\COMPAQ\Desktop\My Project
+
+06/11/2021  10:25 AM    <DIR>          .
+06/11/2021  10:25 AM    <DIR>          ..
+06/11/2021  10:25 AM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  16,760,811,520 bytes free
